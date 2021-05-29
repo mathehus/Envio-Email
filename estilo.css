@@ -1,0 +1,16 @@
+.estilo-link{
+	color: white !important;
+	font-family: 'Gravitas One', cursive;
+
+};
+
+a .estilo-link:hover{
+	color:#1124F9 !important;
+	transition-duration: 1.5s !important;
+};
+
+
+.estilo-titulo{
+ font-family: 'Gravitas One', cursive;
+ font-size: 18px;
+};
